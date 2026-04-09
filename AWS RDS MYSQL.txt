@@ -1,0 +1,16 @@
+Database Engine: MySQL 8.0.40
+Free Tier
+database name: database01
+master user name: admin
+self managed
+public access: Yes
+password: cloudpassword
+instance type: standard
+Don't connect to EC2 instance
+Create new security group
+     sgdatabase01
+password authentication
+
+update the security group sgdatabase01 from EC2 security groups: MySQL/Aurora AnyIP
+
+
