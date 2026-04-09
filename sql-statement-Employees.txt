@@ -1,0 +1,7 @@
+INSERT INTO Employees (Id, Fname, Minit, Lname, Ssn, Bdate, Address, Sex, Salary)
+VALUES
+(1, 'John', 'A', 'Smith', 123456789, '1990-05-12', '123 Main St, Columbus, OH', 'M', 65000),
+
+(2, 'Sarah', 'B', 'Johnson', 987654321, '1988-11-23', '456 Oak Ave, Columbus, OH', 'F', 72000),
+
+(3, 'Michael', 'C', 'Brown', 456123789, '1995-02-18', '789 Pine Rd, Dublin, OH', 'M', 58000);
